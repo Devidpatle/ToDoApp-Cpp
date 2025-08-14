@@ -215,10 +215,10 @@ int main()
     {
         cout << endl
              << endl;
-        cout << "\n\t1.Add student data";
-        cout << "\n\t2.See student data";
-        cout << "\n\t3.Search student data";
-        cout << "\n\t4.Delete student data";
+        cout << "\n\t1.Add Your Task";
+        cout << "\n\t2.See Your Task";
+        cout << "\n\t3.Search Your Task";
+        cout << "\n\t4.Delete Your Task";
 
         int choice;
         cout << "\n\tEnter choice : ";
